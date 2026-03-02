@@ -1,4 +1,4 @@
 ## Olá, eu sou o Henrique Baehr 👋
 
-- 🌱 estudando desenvolvimento de sistemas
-- 😄 Pronouns: ele/dele
+- 🌱 estudando: desenvolvimento de sistemas
+- 😄 Pronomes: ele/dele
